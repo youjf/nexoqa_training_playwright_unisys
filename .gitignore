@@ -1,0 +1,15 @@
+/node_modules/
+/package-lock.json
+.idea/*
+output
+playwright/client/node_modules/
+playwright/server/node_modules/
+*.iml
+.DS_Store
+
+jenkins/configuration/workspace/
+jenkins/jenkins-data/workspace/
+jenkins/jenkins-data/.cache/
+jenkins/jenkins-data/caches/
+jenkins/jenkins-data/jobs/
+jenkins/jenkins-data/logs/
