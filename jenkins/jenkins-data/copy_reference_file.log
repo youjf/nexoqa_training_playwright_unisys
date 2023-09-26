@@ -100,3 +100,6 @@ INSTALLED plugins/cloudbees-folder.jpi : 6.848.ve3b_fd7839a_81
 --- Copying files at Mon Sep 25 19:26:01 UTC 2023
 --- Copying files at Mon Sep 25 19:27:44 UTC 2023
 --- Copying files at Mon Sep 25 20:09:28 UTC 2023
+--- Copying files at Tue Sep 26 13:47:15 UTC 2023
+UPGRADED plugins/cloudbees-bitbucket-branch-source.jpi : Image version (845.v27a_d5823911b_) is newer than installed version (843.vd09104df7988)
+UPGRADED plugins/workflow-cps.jpi : Image version (3793.v65dec41c3a_c3) is newer than installed version (3791.va_c0338ea_b_59c)

@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jenkins-ci.plugins</groupId>
   <artifactId>cloudbees-bitbucket-branch-source</artifactId>
-  <version>843.vd09104df7988</version>
+  <version>845.v27a_d5823911b_</version>
   <packaging>hpi</packaging>
   <name>Bitbucket Branch Source Plugin</name>
   <description>Discover and build Bitbucket Cloud and Bitbucket Server pull requests and branches and send status
@@ -38,7 +38,7 @@
   <scm>
     <connection>scm:git:https://github.com/jenkinsci/bitbucket-branch-source-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/bitbucket-branch-source-plugin.git</developerConnection>
-    <tag>d09104df7988e0745aa0d1eee026b6373f9477cb</tag>
+    <tag>27ad5823911bbcfbb4f451d419bce85cd2e0fb02</tag>
     <url>https://github.com/jenkinsci/bitbucket-branch-source-plugin</url>
   </scm>
   <distributionManagement>
