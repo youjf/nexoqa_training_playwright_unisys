@@ -4,14 +4,14 @@ Build-Jdk-Spec: 11
 Specification-Title: Bitbucket Branch Source Plugin
 Specification-Version: 0.0
 Implementation-Title: Bitbucket Branch Source Plugin
-Implementation-Version: 845.v27a_d5823911b_
+Implementation-Version: 843.vd09104df7988
 Group-Id: org.jenkins-ci.plugins
 Artifact-Id: cloudbees-bitbucket-branch-source
 Short-Name: cloudbees-bitbucket-branch-source
 Long-Name: Bitbucket Branch Source Plugin
 Url: https://github.com/jenkinsci/bitbucket-branch-source-plugin
 Compatible-Since-Version: 2.0
-Plugin-Version: 845.v27a_d5823911b_
+Plugin-Version: 843.vd09104df7988
 Hudson-Version: 2.387.3
 Jenkins-Version: 2.387.3
 Plugin-Dependencies: apache-httpcomponents-client-4-api:4.5.14-208.v4383
@@ -25,9 +25,9 @@ Plugin-License-Name: MIT License
 Plugin-License-Url: https://opensource.org/licenses/MIT
 Plugin-ScmConnection: scm:git:https://github.com/jenkinsci/bitbucket-bra
  nch-source-plugin.git
-Plugin-ScmTag: 27ad5823911bbcfbb4f451d419bce85cd2e0fb02
+Plugin-ScmTag: d09104df7988e0745aa0d1eee026b6373f9477cb
 Plugin-ScmUrl: https://github.com/jenkinsci/bitbucket-branch-source-plug
  in
-Plugin-GitHash: 27ad5823911bbcfbb4f451d419bce85cd2e0fb02
-Implementation-Build: 27ad5823911bbcfbb4f451d419bce85cd2e0fb02
+Plugin-GitHash: d09104df7988e0745aa0d1eee026b6373f9477cb
+Implementation-Build: d09104df7988e0745aa0d1eee026b6373f9477cb
 

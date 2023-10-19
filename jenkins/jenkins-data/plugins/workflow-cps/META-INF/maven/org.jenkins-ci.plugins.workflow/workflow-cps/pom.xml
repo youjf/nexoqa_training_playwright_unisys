@@ -27,7 +27,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jenkins-ci.plugins.workflow</groupId>
   <artifactId>workflow-cps</artifactId>
-  <version>3793.v65dec41c3a_c3</version>
+  <version>3791.va_c0338ea_b_59c</version>
   <packaging>hpi</packaging>
   <name>Pipeline: Groovy</name>
   <description>The Jenkins Plugins Parent POM Project</description>
@@ -42,7 +42,7 @@
   <scm child.scm.connection.inherit.append.path="false" child.scm.developerConnection.inherit.append.path="false" child.scm.url.inherit.append.path="false">
     <connection>scm:git:https://github.com/jenkinsci/workflow-cps-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/workflow-cps-plugin.git</developerConnection>
-    <tag>65dec41c3ac33fa64a4a6b3f88307a9942e9dba3</tag>
+    <tag>ac0338eab59c834422760ab9324eb44d5552fed7</tag>
     <url>https://github.com/jenkinsci/workflow-cps-plugin</url>
   </scm>
   <distributionManagement>
@@ -124,7 +124,7 @@
     <dependency>
       <groupId>com.cloudbees</groupId>
       <artifactId>groovy-cps</artifactId>
-      <version>3793.v65dec41c3a_c3</version>
+      <version>3791.va_c0338ea_b_59c</version>
       <scope>compile</scope>
       <exclusions>
         <exclusion>
@@ -148,6 +148,19 @@
           <artifactId>localizer</artifactId>
         </exclusion>
       </exclusions>
+    </dependency>
+    <dependency>
+      <groupId>io.jenkins.plugins</groupId>
+      <artifactId>theme-manager</artifactId>
+      <version>211.vef2a_42c645a_b_</version>
+      <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <groupId>io.jenkins.blueocean</groupId>
+          <artifactId>blueocean-web</artifactId>
+        </exclusion>
+      </exclusions>
+      <optional>true</optional>
     </dependency>
   </dependencies>
   <build>
